@@ -1,0 +1,1 @@
+First download the data from https://datasets.imdbws.com/title.basics.tsv.gz and extract it in this directory. Then, you can scrape reviews using scrape_reviews.py . Then, you can combine the scraped reviews using combine_reviews.py . You can finally run the analysis needed using experiments.ipynb.
